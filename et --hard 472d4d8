@@ -1,0 +1,10 @@
+[33md947644[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest[m[33m)[m HEAD@{0}: reset: moving to d947644
+[33m472d4d8[m HEAD@{1}: commit: modification grp1
+[33md947644[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mtest[m[33m)[m HEAD@{2}: commit: modification specialite
+[33m6a92b87[m HEAD@{3}: commit: modification age
+[33m2a7773f[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{4}: checkout: moving from master to test
+[33m2a7773f[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{5}: merge test: Fast-forward
+[33m001f31c[m HEAD@{6}: checkout: moving from test to master
+[33m2a7773f[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{7}: commit: modification sur branch test
+[33m001f31c[m HEAD@{8}: checkout: moving from master to test
+[33m001f31c[m HEAD@{9}: commit (initial): permiere modificationt
