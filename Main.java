@@ -6,5 +6,6 @@ public class Main {
           System.out.println("age 21");
              System.out.println("specialite isil");
               System.out.println("groupe 1");
+                System.out.println("hello world ");
     }
 }
